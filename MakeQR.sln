@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeQR", "MakeQR.csproj", "{9B0204A8-BB93-443D-B9A9-F2822864DBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0204A8-BB93-443D-B9A9-F2822864DBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0204A8-BB93-443D-B9A9-F2822864DBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0204A8-BB93-443D-B9A9-F2822864DBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0204A8-BB93-443D-B9A9-F2822864DBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A708BC-84AE-48B1-8182-D2B2AE8FCDB5}
+	EndGlobalSection
+EndGlobal
